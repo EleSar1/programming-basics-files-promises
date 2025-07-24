@@ -1,0 +1,58 @@
+Product Name, Category, Price, Stock Quantity
+Drone - DJI Mavic Air 2 Fly More Combo, Electronics, 899.00, 5
+Smartphone - Google Pixel 6 Pro, Electronics, 899.00, 15
+Smartphone - iPhone 13 Pro, Electronics, 1099.00, 15
+Cooking Pan - All-Clad Stainless Steel Fry Pan, Kitchen, 79.95, 18
+Product Name, Category, Price, Stock Quantity
+Fitness Tracker - Fitbit Versa 3, Electronics, 199.95, 25
+Espresso Machine - Nespresso VertuoPlus, Appliances, 149.00, 15
+Headphones - Sony WH-1000XM4 Wireless, Electronics, 299.00, 20
+Blender - Ninja Professional BL610, Appliances, 89.99, 18
+TV - LG 55 NanoCell 4K Smart TV, Electronics, 799.00, 18
+Laptop - HP Spectre x360 13, Electronics, 1199.99, 12
+Backpack - JanSport SuperBreak, Fashion, 39.99, 25
+Backpack - Osprey Farpoint 40, Travel Gear, 159.95, 30
+Blender - Vitamix E310 Explorian, Appliances, 349.95, 15
+Sunglasses - Ray-Ban Wayfarer, Fashion, 149.00, 30
+Cooking Pan - T-fal E76597 Ultimate Hard Anodized, Kitchen, 39.99, 18
+Keyboard - Razer BlackWidow V3, Electronics, 139.99, 10
+Hair Dryer - Dyson Supersonic, Personal Care, 399.99, 30
+Car Seat - Graco Extend2Fit Convertible, Baby, 199.95, 8
+Coffee Maker - Keurig K-Elite Single Serve, Appliances, 129.99, 30
+Wireless Speaker - JBL Flip 5, Electronics, 99.95, 18
+Running Shoes - New Balance Fresh Foam 1080, Fashion, 139.99, 25
+Monitor - Dell Ultrasharp U2719D, Electronics, 349.99, 6
+Monitor - LG 27 Ultragear QHD Gaming, Electronics, 349.00, 10
+Smartwatch - Samsung Galaxy Watch 4, Electronics, 349.99, 22
+Espresso Machine - Breville Barista Express, Appliances, 699.99, 8
+Smartwatch - Apple Watch Series 7, Electronics, 399.99, 22
+Wireless Speaker - Sonos Roam, Electronics, 169.00, 18
+Vacuum Cleaner - Dyson V11 Animal Cordless, Appliances, 599.00, 8
+External Hard Drive - Seagate Backup Plus 4TB, Electronics, 99.99, 12
+Electric Toothbrush - Oral-B Genius X, Personal Care, 179.99, 28
+Backpack - Herschel Little America, Fashion, 99.99, 25
+Fitness Tracker - Fitbit Charge 4, Electronics, 149.95, 25
+Drone - DJI Mini 2 Fly More Combo, Electronics, 499.00, 5
+Running Shoes - Nike Air Zoom Pegasus 38, Fashion, 119.99, 25
+Keyboard - Logitech G Pro Mechanical, Electronics, 129.99, 10
+External Hard Drive - Seagate Backup Plus 2TB, Electronics, 79.99, 12
+Sunglasses - Ray-Ban Classic Aviator, Fashion, 169.00, 30
+Blender - Ninja Foodi Power Blender, Appliances, 199.95, 15
+Vacuum Cleaner - Dyson V11 Torque Drive, Appliances, 599.00, 8
+Blender - Vitamix A3500 Ascent Series, Appliances, 599.95, 8
+Monitor - Dell 24 Ultrasharp U2419H, Electronics, 249.00, 10
+Microwave - Panasonic NN-SN936B Countertop, Appliances, 169.99, 15
+Yoga Mat - Gaiam Essentials Thick Yoga Mat, Fitness, 19.99, 40
+Microwave - Panasonic NN-SN686S Countertop, Appliances, 149.99, 15
+Portable Charger - Anker PowerCore 20000, Electronics, 49.99, 20
+Camera - Canon EOS Rebel T7i DSLR, Electronics, 699.00, 9
+TV - Samsung 65 QLED 4K Smart TV, Electronics, 999.00, 18
+Portable Charger - Anker PowerCore 10000mAh, Electronics, 29.99, 20
+Electric Toothbrush - Oral-B Pro 1000, Personal Care, 49.95, 28
+Gaming Console - PlayStation 5, Electronics, 499.99, 5
+Hair Dryer - Revlon One-Step Hair Dryer, Personal Care, 59.99, 30
+Backpack - North Face Borealis Classic, Fashion, 89.95, 30
+Monitor - LG 32 UltraGear QHD Gaming, Electronics, 349.99, 6
+Camera - Sony Alpha A7 III, Electronics, 1999.00, 9
+Laptop - Dell XPS 15, Electronics, 1399.99, 12
+Yoga Mat - Liforme Yoga Mat, Fitness, 149.00, 40
