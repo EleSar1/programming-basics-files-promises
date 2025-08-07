@@ -74,7 +74,7 @@ def clean_data(lines: list) -> list:
     return [line.strip(" ") for line in set(lines[1:])]
 
 
-def delete_incomplete_data(lines: list, header: list) -> list:
+def filter_data(lines: list, header: list) -> list:
 
     """
     Removes lines from the list that do not have the same number of comma-separated
@@ -85,7 +85,7 @@ def delete_incomplete_data(lines: list, header: list) -> list:
         header (list): A list containing the header line (as a single string).
 
     Returns:
-        list: A new list with incomplete lines removed.
+        list: A new list with only complete data lines (excluding the header).
 
     Raises:
         TypeError: If either 'lines' or 'header' is not a list.
@@ -102,7 +102,7 @@ def delete_incomplete_data(lines: list, header: list) -> list:
 
     for line in lines:
         fields = line.split(",")
-        if len(fields) == len(header_fields):
+        if len(fields) == len(header_fields) and line != header_line:
             new_lines.append(line)
 
     return new_lines
